@@ -4,16 +4,18 @@ This is a simple NodeJS + AngularJS application. This application is just a demo
 
 To run the code:
 
-1. Clone the repository.
-2. Go to the cloned directory and open the command promopt there. For windows users, go to the directory then press shift + right mouse button and you will find out 'Open command window here' :D
-3. Run 
+- Clone the repository.
+- Go to the cloned directory and open the command promopt there. For windows users, go to the directory then press shift + right mouse button and you will find out 'Open command window here' :D
+- Run 
+    
     npm install
 
 If you do not have NodeJS in your computer, download and install from nodejs.org
 
-4. Run
+- Run
+    
     node server.js
 
-5. If everything goes well, you will se a message in the shell like 'Magic happens on port 8080'
+- If everything goes well, you will se a message in the shell like 'Magic happens on port 8080'
 
 BINGO!! :D 
