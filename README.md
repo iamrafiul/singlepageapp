@@ -4,7 +4,7 @@ This is a simple NodeJS + AngularJS application. This application is just a demo
 
 To run the code:
 
-- Clone the repository.
+- Fork the repository.
 - Go to the cloned directory and open the command promopt there. For windows users, go to the directory then press shift + right mouse button and you will find out 'Open command window here' :D
 - Run 
     
